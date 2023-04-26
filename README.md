@@ -4,7 +4,7 @@
 <h3> :woman: &nbsp;Sobre mim </h3>
 
 - 🤔 &nbsp; Explorando novas tecnologias e aprendendo Python.
-- 🎓 &nbsp; Estudando **Python**,  livro em andamento <a href="link da sua faculdade">Pense em Python</a>.
+- 🎓 &nbsp; Estudando **Python**,  livro em andamento <a href="https://www.amazon.com.br/dp/8575225081?psc=1&ref=ppx_yo2ov_dt_b_product_details">Pense em Python</a>.
 - 💼 &nbsp; Trabalhando como **Programadora Junior ** na <a href="https://landing.solfacil.com.br/?utm_term=solfacil&utm_campaign=GSN+I+ongoing+I+branding+terms+I+pr%C3%A9-cadastro+I+2022-03-08&utm_source=adwords&utm_medium=ppc&hsa_acc=7781203441&hsa_cam=16504738521&hsa_grp=138064801670&hsa_ad=586581498872&hsa_src=g&hsa_tgt=kwd-430623676300&hsa_kw=solfacil&hsa_mt=b&hsa_net=adwords&hsa_ver=3&gclid=CjwKCAjw9J2iBhBPEiwAErwpeZYzWcUPb8u8nzl2GQTQXQp59r5TmtaxpXjBBKLYX8iwQ6MhicqtIBoCqAkQAvD_BwE">Solfacil</a>
 - 🌱 &nbsp; Aprendendo mais sobre mim mesma. Minhas habilidades profissionais e pessoais! Fazendo aulas de teatro :D
 
